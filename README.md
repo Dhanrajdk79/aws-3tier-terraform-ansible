@@ -15,7 +15,7 @@ The infrastructure consists of:
 
 # Architecture Diagram
 
-![Architecture](images/terraform-op.PNG)
+![Architecture](images/architecture.jpg)
 
 This architecture includes:
 
